@@ -56,7 +56,7 @@ section#image{
   position: relative;
   margin-left: 10px;
   margin-right: 10px;
-  width: 200px;
+  width: 100px;
 }
 section#about {
   display: inline;
@@ -64,5 +64,5 @@ section#about {
   position: relative;
   margin-left: 10px;
   margin-right: 10px;
-  width: 450px;
+  width: 500px;
 }
