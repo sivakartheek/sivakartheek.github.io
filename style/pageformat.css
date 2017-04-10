@@ -50,11 +50,19 @@ header {
   width: 700px;
 }
 
-section#image, section#about {
+section#image{
   display: inline;
   float: left;
   position: relative;
   margin-left: 10px;
   margin-right: 10px;
-  width: 350px;
+  width: 200px;
+}
+section#about {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 450px;
 }
